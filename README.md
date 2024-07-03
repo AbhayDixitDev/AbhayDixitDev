@@ -1,4 +1,4 @@
-
+<h1><a href="https://linktr.ee/abhaydixitdev">Abhay Dixit</a></h1>
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/Abhaydixitji) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/AbhayDixitDev) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Abhaydixitji) 
 <img align="right" alt="code thinking"  width="400px" src="https://user-images.githubusercontent.com/69011963/137184767-79a13ec7-1bb3-4341-a6da-3a149c9c159a.gif">
