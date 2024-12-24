@@ -3,7 +3,7 @@ Aspiring MERN Full-Stack Developer
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=light)
-<img  alt="code thinking"  width="240px" src="https://user-images.githubusercontent.com/69011963/137184767-79a13ec7-1bb3-4341-a6da-3a149c9c159a.gif">
+<img align="right"  alt="code thinking"  width="360px" src="https://user-images.githubusercontent.com/69011963/137184767-79a13ec7-1bb3-4341-a6da-3a149c9c159a.gif">
 
 
 ## 🌐 Socials:
