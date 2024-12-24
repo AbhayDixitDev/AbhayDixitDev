@@ -11,7 +11,7 @@ Aspiring MERN Full-Stack Developer
  <br/>
 # 📊 GitHub Stats:
 ![](https://github-readme-streak-stats.herokuapp.com/?user=AbhayDixitDev&theme=dark&hide_border=true)
-![](https://github-readme-stats.vercel.app/api?username=AbhayDixitDev&theme=dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact) <br/>
+![](https://github-readme-stats.vercel.app/api?username=AbhayDixitDev&theme=dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=AbhayDixitDev&theme=dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
 
 ### ✍️ Random Dev Quote
