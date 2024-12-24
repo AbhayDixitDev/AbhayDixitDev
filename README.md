@@ -1,5 +1,5 @@
 # 💫 About Me:
-Aspiring MERN Full-Stack Developer
+MERN Full-Stack Developer
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=light)
