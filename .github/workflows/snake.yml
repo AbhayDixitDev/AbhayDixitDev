@@ -20,8 +20,8 @@ jobs:
       - name: Commit and Push Snake
         uses: EndBug/add-and-commit@v7
         with:
-          author_name: yourusername
-          author_email: your_email@example.com
+          author_name: AbhayDixitDev
+          author_email: dixitshivam534@gmail.com
           message: 'Update snake'
           add: 'dist/*'
         env:
