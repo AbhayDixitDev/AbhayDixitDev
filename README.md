@@ -1,6 +1,8 @@
 # 💫 About Me:
 # MERN Full-Stack Developer </br> [ { ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) } , { ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) } , { ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) }, { ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) } ]
 
+(https://img.shields.io/github/followers/Abhaydixitdev)
+
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=light)
 <img align="right"  alt="code thinking"  width="360px" src="https://user-images.githubusercontent.com/69011963/137184767-79a13ec7-1bb3-4341-a6da-3a149c9c159a.gif">
@@ -12,7 +14,8 @@
 # 💻 Tech Stack:
 
 ## Front-End
- ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
+ ![React.js](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
+ ![Next.js](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=%2361DAFB)
  ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) 
  ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) 
  ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
@@ -56,6 +59,7 @@
  <br/>
  
 # 📊 GitHub Stats:
+![My Followers](https://img.shields.io/github/followers/Abhaydixitdev)
 ![Snake animation](https://raw.githubusercontent.com/AbhayDixitDev/AbhayDixitDev/main/dist/github-snake.svg)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=AbhayDixitDev&theme=dark&hide_border=true)
 ![](https://github-readme-stats.vercel.app/api?username=AbhayDixitDev&theme=dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
