@@ -1,94 +1,181 @@
-# 💫 About Me:
-# MERN Full-Stack Developer </br>  [ { ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) } , { ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) } , { ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) }, { ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) } ]
+<div align="center">
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=light)
-<img align="right"  alt="code thinking"  width="360px" src="https://user-images.githubusercontent.com/69011963/137184767-79a13ec7-1bb3-4341-a6da-3a149c9c159a.gif">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Abhay%20Dixit&fontSize=80&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Full-Stack%20MERN%20Developer%20%7C%20Code%20Craftsman%20%7C%20Problem%20Solver&descAlignY=60&descSize=18" width="100%"/>
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/Abhaydixitji) 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/AbhayDixitDev) 
-[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Abhaydixitji) 
-[![Dev.to](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white)](https://dev.to/abhaydixit)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=00D9FF&center=true&vCenter=true&random=false&width=800&lines=🚀+MERN+Full-Stack+Developer;💡+Building+Scalable+Web+Apps;⚡+React+%7C+Node+%7C+MongoDB+%7C+Express;🌍+Open+Source+Contributor;🎯+Turning+Ideas+into+Reality)](https://git.io/typing-svg)
 
-# 💻 Tech Stack:
+<img src="https://komarev.com/ghpvc/?username=AbhayDixitDev&label=👁️+Profile+Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
+&nbsp;
+[![GitHub followers](https://img.shields.io/github/followers/AbhayDixitDev?label=Followers&style=for-the-badge&color=236ad3&labelColor=1155ba&logo=github)](https://github.com/AbhayDixitDev)
+&nbsp;
+[![GitHub stars](https://img.shields.io/github/stars/AbhayDixitDev?label=Stars&style=for-the-badge&color=f4c430&labelColor=d4a017&logo=github)](https://github.com/AbhayDixitDev)
 
-## Front-End
-![React.js](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
-![Next.js](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=%2361DAFB)
-![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) 
-![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) 
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) 
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) 
-![Ant Design](https://img.shields.io/badge/Ant%20Design-%230A1E2D.svg?style=for-the-badge&logo=antdesign&logoColor=white)
-![Material-UI](https://img.shields.io/badge/material--ui-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white)
-
-## Back-End
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) 
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) 
-![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) 
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) 
-![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD) 
-![Bcrypt](https://img.shields.io/badge/bcrypt-%234D4D4D.svg?style=for-the-badge&logo=hashnode&logoColor=white)
-![OAuth](https://img.shields.io/badge/OAuth-%2300A4D7.svg?style=for-the-badge&logo=oauth&logoColor=white)
-![Firebase](https://img.shields.io/badge/firebase-%23039BE0.svg?style=for-the-badge&logo=firebase&logoColor=white)
-![WebSockets](https://img.shields.io/badge/websockets-%2338B2AC.svg?style=for-the-badge&logo=websockets&logoColor=white)
-
-## Database
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) 
-![MySQL](https://img.shields.io/badge/mysql-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-
-## Tools
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) 
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) 
-![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) 
-![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white) 
-![Docker](https://img.shields.io/badge/docker-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white) 
-![Jest](https://img.shields.io/badge/jest-%23C21325.svg?style=for-the-badge&logo=jest&logoColor=white) 
-![Prettier](https://img.shields.io/badge/prettier-%23F7B93E.svg?style=for-the-badge&logo=prettier&logoColor=black) 
-![JSON Server](https://img.shields.io/badge/json%20server-%234D4D4D.svg?style=for-the-badge&logo=json&logoColor=white)
-![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) 
-![Render](https://img.shields.io/badge/render-%23000000.svg?style=for-the-badge&logo=render&logoColor=white) 
-![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=white)
+</div>
 
 ---
 
-## 📽️ Recent Projects:
-- ✈️ **Flight Booking System Website**
-- 🗳️ **E-Voting Web Application**
-- 📤 **Drive File Uploader with Google Drive API**
-- 🎬 **MP4 Audio Track Extractor with Node.js**
-- 📃 **WordPress Theme Header Conversion (Bootstrap → TailwindCSS)**
+<img align="right" alt="Coding GIF" width="380" src="https://user-images.githubusercontent.com/69011963/137184767-79a13ec7-1bb3-4341-a6da-3a149c9c159a.gif"/>
+
+## 🧑‍💻 About Me
+
+```javascript
+const abhay = {
+  name: "Abhay Dixit",
+  role: "MERN Full-Stack Developer",
+  location: "India 🇮🇳",
+  stack: ["MongoDB", "Express.js", "React.js", "Node.js"],
+  currentlyLearning: ["TypeScript", "React Native", "Microservices", "GraphQL"],
+  funFact: "I debug with console.log and I am proud of it! 😄",
+  goal2025: "Build a SaaS product & go international 🌍",
+  hobbies: ["Coding", "Open Source", "Learning new tech"],
+  availableForHire: true
+};
+```
+
+<br clear="both"/>
 
 ---
 
-## 📚 Currently Learning:
-- 📖 TypeScript
-- 📱 React Native
-- 🖥️ Microservices with Node.js
-- 📊 GraphQL API integrations
+## 🌐 Connect With Me
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/AbhayDixitDev)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/Abhaydixitji)
+[![X](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white)](https://x.com/Abhaydixitji)
+[![Dev.to](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/abhaydixit)
+
+</div>
 
 ---
 
-## 🎯 2025 Goals:
-- 🚀 Become a certified MERN architect
-- 🖥️ Build an Open Source SaaS product
-- 💻 Land an international remote job opportunity
-- 📦 Contribute to popular Node.js libraries
-- 📱 Launch a React Native app on PlayStore
+## 🏆 GitHub Trophies
+
+<div align="center">
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=AbhayDixitDev&theme=tokyonight&no-frame=true&no-bg=false&margin-w=6&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+
+</div>
 
 ---
 
-# 📊 GitHub Stats:
-![My Followers](https://img.shields.io/github/followers/Abhaydixitdev)
-![Snake animation](https://raw.githubusercontent.com/AbhayDixitDev/AbhayDixitDev/main/dist/github-snake.svg)
-![](https://github-readme-streak-stats.herokuapp.com/?user=AbhayDixitDev&theme=dark&hide_border=true)
-![](https://github-readme-stats.vercel.app/api?username=AbhayDixitDev&theme=dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=AbhayDixitDev&theme=dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
+## 💻 Tech Arsenal
 
-<div align="center"> 
-  <p>Visitor count</p>
-  <img src="https://profile-counter.glitch.me/AbhayDixitDev/count.svg" alt="Visitor's Count" />
+<div align="center">
+
+### 🎨 Frontend
+[![My Skills](https://skillicons.dev/icons?i=react,nextjs,redux,html,css,tailwind,bootstrap,js,ts,figma&perline=10)](https://skillicons.dev)
+
+### ⚙️ Backend
+[![My Skills](https://skillicons.dev/icons?i=nodejs,express,firebase,graphql,jest,postman&perline=10)](https://skillicons.dev)
+
+### 🗄️ Database and Cloud
+[![My Skills](https://skillicons.dev/icons?i=mongodb,mysql,docker,aws,vercel,netlify&perline=10)](https://skillicons.dev)
+
+### 🛠️ Tools and DevOps
+[![My Skills](https://skillicons.dev/icons?i=git,github,vscode,linux,npm,jenkins&perline=10)](https://skillicons.dev)
+
+</div>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=AbhayDixitDev&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github" />
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=AbhayDixitDev&theme=tokyonight&hide_border=true" />
+
+</div>
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbhayDixitDev&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact&langs_count=10" />
+<img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=AbhayDixitDev&theme=tokyo-night&hide_border=true&area=true" />
+
+</div>
+
+---
+
+## 🚀 Featured Projects
+
+<div align="center">
+
+| 🎯 Project | 📝 Description | 🛠️ Tech Stack |
+|:---:|:---:|:---:|
+| ✈️ **Flight Booking System** | Full-stack flight booking platform with real-time seat selection | React, Node.js, MongoDB |
+| 🗳️ **E-Voting Web App** | Secure digital voting application with authentication | MERN Stack, JWT, Bcrypt |
+| 📤 **Drive File Uploader** | File upload system integrated with Google Drive API | Node.js, Google Drive API |
+| 🎬 **MP4 Audio Extractor** | Extract audio tracks from MP4 videos | Node.js, FFmpeg, Express |
+| 📃 **WordPress Migration** | Converted Bootstrap theme headers to TailwindCSS | TailwindCSS, WordPress |
+
+</div>
+
+---
+
+## 📚 Currently Leveling Up
+
+<div align="center">
+
+| 📖 Technology | 📊 Progress | 🎯 Target |
+|:---:|:---:|:---:|
+| TypeScript | ████████░░ 80% | Advanced Types and Generics |
+| React Native | ██████░░░░ 60% | Full App Development |
+| Microservices | █████░░░░░ 50% | Docker + Kubernetes |
+| GraphQL | ████░░░░░░ 40% | Schema Design and Apollo |
+
+</div>
+
+---
+
+## 🎯 2025 Mission Board
+
+<div align="center">
+
+```
+╔══════════════════════════════════════════════════════════╗
+║              🚀 ABHAY'S 2025 GOALS                       ║
+╠══════════════════════════════════════════════════════════╣
+║  🏆 Become a certified MERN Architect                    ║
+║  💼 Land an International Remote Job                     ║
+║  🌟 Build and Launch an Open Source SaaS Product         ║
+║  📦 Contribute to 10+ Popular Node.js Libraries          ║
+║  📱 Launch a React Native App on PlayStore               ║
+║  ✍️  Write 24 Technical Blog Posts on Dev.to             ║
+╚══════════════════════════════════════════════════════════╝
+```
+
+</div>
+
+---
+
+## ✍️ Random Dev Quote
+
+<div align="center">
+
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+
+</div>
+
+---
+
+## 🐍 Contribution Snake
+
+<div align="center">
+
+![Snake animation](https://raw.githubusercontent.com/AbhayDixitDev/AbhayDixitDev/main/dist/github-snake-dark.svg#gh-dark-mode-only)
+![Snake animation](https://raw.githubusercontent.com/AbhayDixitDev/AbhayDixitDev/main/dist/github-snake.svg#gh-light-mode-only)
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling" width="100%"/>
+
+**⭐ If you like what I do, consider giving my repos a star! ⭐**
+
+*Made with ❤️ by Abhay Dixit | 2025*
+
 </div>
