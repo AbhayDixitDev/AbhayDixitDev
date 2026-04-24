@@ -1,170 +1,218 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Abhay%20Dixit&fontSize=80&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Full-Stack%20MERN%20Developer%20%7C%20Code%20Craftsman%20%7C%20Problem%20Solver&descAlignY=60&descSize=18" width="100%"/>
+<!-- 3D ANIMATED HEADER BANNER -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,30:0A2647,60:144272,100:205295&height=220&section=header&text=Abhay%20Dixit&fontSize=90&fontColor=00D4FF&animation=fadeIn&fontAlignY=38&desc=⚡%20Full-Stack%20MERN%20Developer%20%7C%20Code%20Craftsman%20%7C%20Builder%20of%20Things&descAlignY=60&descSize=17&descColor=ffffff" />
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=00D9FF&center=true&vCenter=true&random=false&width=800&lines=🚀+MERN+Full-Stack+Developer;💡+Building+Scalable+Web+Apps;⚡+React+%7C+Node+%7C+MongoDB+%7C+Express;🌍+Open+Source+Contributor;🎯+Turning+Ideas+into+Reality)](https://git.io/typing-svg)
+<!-- ANIMATED TYPING -->
+<a href="https://github.com/AbhayDixitDev">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=26&duration=3000&pause=800&color=00D4FF&center=true&vCenter=true&multiline=false&random=false&width=750&height=60&lines=🚀+MERN+Full-Stack+Developer;⚡+React+%2B+Node+%2B+MongoDB+%2B+Express;🌍+Building+Scalable+Web+Applications;🏗️+Open+Source+Contributor+%26+Builder;🎯+Turning+Coffee+into+Code+since+2020" alt="Typing SVG" />
+</a>
 
-<img src="https://komarev.com/ghpvc/?username=AbhayDixitDev&label=👁️+Profile+Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
+<br/>
+
+<!-- PROFILE BADGES - all using shields.io (GitHub-approved) -->
+<img src="https://komarev.com/ghpvc/?username=AbhayDixitDev&label=Profile+Views&color=0e75b6&style=flat-square" alt="profile views" />
 &nbsp;
-[![GitHub followers](https://img.shields.io/github/followers/AbhayDixitDev?label=Followers&style=for-the-badge&color=236ad3&labelColor=1155ba&logo=github)](https://github.com/AbhayDixitDev)
+<img src="https://img.shields.io/github/followers/AbhayDixitDev?style=flat-square&color=236ad3&label=Followers&logo=github" />
 &nbsp;
-[![GitHub stars](https://img.shields.io/github/stars/AbhayDixitDev?label=Stars&style=for-the-badge&color=f4c430&labelColor=d4a017&logo=github)](https://github.com/AbhayDixitDev)
+<img src="https://img.shields.io/github/stars/AbhayDixitDev?style=flat-square&color=f4c430&label=Total+Stars&logo=github" />
+&nbsp;
+<img src="https://img.shields.io/badge/Open%20To%20Work-✅-brightgreen?style=flat-square" />
+&nbsp;
+<img src="https://img.shields.io/badge/Year-2026-blueviolet?style=flat-square" />
 
 </div>
 
 ---
 
-<img align="right" alt="Coding GIF" width="380" src="https://user-images.githubusercontent.com/69011963/137184767-79a13ec7-1bb3-4341-a6da-3a149c9c159a.gif"/>
+<!-- ABOUT ME SECTION with 3D Code Block -->
+<img align="right" alt="3D Coding" width="360" src="https://user-images.githubusercontent.com/69011963/137184767-79a13ec7-1bb3-4341-a6da-3a149c9c159a.gif"/>
 
-## 🧑‍💻 About Me
+## 🧑‍💻 &nbsp;Who Am I?
 
-```javascript
-const abhay = {
-  name: "Abhay Dixit",
-  role: "MERN Full-Stack Developer",
-  location: "India 🇮🇳",
-  stack: ["MongoDB", "Express.js", "React.js", "Node.js"],
-  currentlyLearning: ["TypeScript", "React Native", "Microservices", "GraphQL"],
-  funFact: "I debug with console.log and I am proud of it! 😄",
-  goal2025: "Build a SaaS product & go international 🌍",
-  hobbies: ["Coding", "Open Source", "Learning new tech"],
-  availableForHire: true
+```typescript
+// abhay.config.ts — 2026 Edition 🚀
+
+const developer = {
+  name        : "Abhay Dixit",
+  alias       : "AbhayDixitDev",
+  role        : "MERN Full-Stack Developer",
+  company     : "BlueFlute Codecraft",
+  location    : "Bhopal, Madhya Pradesh 🇮🇳",
+  email       : "abhaydixit.dev@gmail.com",
+
+  stack       : ["MongoDB", "Express.js", "React.js", "Node.js"],
+  learning    : ["TypeScript", "React Native", "GraphQL", "Microservices"],
+  tools       : ["Docker", "Jenkins", "Git", "Postman", "Figma"],
+
+  funFact     : "I turn console.log() into features 😄",
+  goal2026    : "Ship a global SaaS product & go international 🌍",
+  status      : "🟢 Available for freelance & remote roles",
+  portfolio   : "https://github.com/AbhayDixitDev",
 };
+
+export default developer;
 ```
 
 <br clear="both"/>
 
 ---
 
-## 🌐 Connect With Me
+## 🌐 &nbsp;Find Me Online
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/AbhayDixitDev)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/Abhaydixitji)
-[![X](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white)](https://x.com/Abhaydixitji)
-[![Dev.to](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/abhaydixit)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/AbhayDixitDev)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/Abhaydixitji)
+[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/Abhaydixitji)
+[![Dev.to](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white)](https://dev.to/abhaydixit)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AbhayDixitDev)
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abhaydixit.dev@gmail.com)
 
 </div>
 
 ---
 
-## 🏆 GitHub Trophies
+## 🏆 &nbsp;GitHub Trophies
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=AbhayDixitDev&theme=tokyonight&no-frame=true&no-bg=false&margin-w=6&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+<img src="https://github-profile-trophy.vercel.app/?username=AbhayDixitDev&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=7&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C" alt="trophies"/>
 
 </div>
 
 ---
 
-## 💻 Tech Arsenal
+## 💻 &nbsp;My Tech Arsenal
 
 <div align="center">
 
-### 🎨 Frontend
-[![My Skills](https://skillicons.dev/icons?i=react,nextjs,redux,html,css,tailwind,bootstrap,js,ts,figma&perline=10)](https://skillicons.dev)
+### 🎨 &nbsp;Frontend — Building Stunning UIs
+<img src="https://skillicons.dev/icons?i=react,nextjs,redux,html,css,tailwind,bootstrap,js,ts,figma&perline=10" />
 
-### ⚙️ Backend
-[![My Skills](https://skillicons.dev/icons?i=nodejs,express,firebase,graphql,jest,postman&perline=10)](https://skillicons.dev)
+### ⚙️ &nbsp;Backend — Powering the Logic
+<img src="https://skillicons.dev/icons?i=nodejs,express,firebase,graphql,jest,postman,nginx&perline=10" />
 
-### 🗄️ Database and Cloud
-[![My Skills](https://skillicons.dev/icons?i=mongodb,mysql,docker,aws,vercel,netlify&perline=10)](https://skillicons.dev)
+### 🗄️ &nbsp;Database & Cloud — Storing & Deploying
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,redis,docker,aws,vercel,netlify&perline=10" />
 
-### 🛠️ Tools and DevOps
-[![My Skills](https://skillicons.dev/icons?i=git,github,vscode,linux,npm,jenkins&perline=10)](https://skillicons.dev)
+### 🛠️ &nbsp;Dev Tools — My Daily Drivers
+<img src="https://skillicons.dev/icons?i=git,github,vscode,linux,npm,webpack,jenkins&perline=10" />
 
 </div>
 
 ---
 
-## 📊 GitHub Stats
+## 📊 &nbsp;GitHub Statistics
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=AbhayDixitDev&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=AbhayDixitDev&theme=tokyonight&hide_border=true" />
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=AbhayDixitDev&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github&title_color=00D4FF&icon_color=00D4FF&text_color=ffffff&bg_color=0D1117" />
+&nbsp;
+<img height="180" src="https://github-readme-streak-stats.herokuapp.com?user=AbhayDixitDev&theme=tokyonight&hide_border=true&background=0D1117&ring=00D4FF&fire=FF6B6B&currStreakLabel=00D4FF&sideLabels=ffffff&dates=888888" />
 
 </div>
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbhayDixitDev&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact&langs_count=10" />
-<img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=AbhayDixitDev&theme=tokyo-night&hide_border=true&area=true" />
-
-</div>
-
----
-
-## 🚀 Featured Projects
-
-<div align="center">
-
-| 🎯 Project | 📝 Description | 🛠️ Tech Stack |
-|:---:|:---:|:---:|
-| ✈️ **Flight Booking System** | Full-stack flight booking platform with real-time seat selection | React, Node.js, MongoDB |
-| 🗳️ **E-Voting Web App** | Secure digital voting application with authentication | MERN Stack, JWT, Bcrypt |
-| 📤 **Drive File Uploader** | File upload system integrated with Google Drive API | Node.js, Google Drive API |
-| 🎬 **MP4 Audio Extractor** | Extract audio tracks from MP4 videos | Node.js, FFmpeg, Express |
-| 📃 **WordPress Migration** | Converted Bootstrap theme headers to TailwindCSS | TailwindCSS, WordPress |
+<img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbhayDixitDev&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact&langs_count=10&title_color=00D4FF&text_color=ffffff&bg_color=0D1117" />
+&nbsp;
+<img height="175" src="https://github-readme-activity-graph.vercel.app/graph?username=AbhayDixitDev&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00D4FF&line=00D4FF&point=ffffff&area=true&area_color=00D4FF" />
 
 </div>
 
 ---
 
-## 📚 Currently Leveling Up
+## 🚀 &nbsp;Featured Projects — Built with Passion
 
 <div align="center">
 
-| 📖 Technology | 📊 Progress | 🎯 Target |
-|:---:|:---:|:---:|
-| TypeScript | ████████░░ 80% | Advanced Types and Generics |
-| React Native | ██████░░░░ 60% | Full App Development |
-| Microservices | █████░░░░░ 50% | Docker + Kubernetes |
-| GraphQL | ████░░░░░░ 40% | Schema Design and Apollo |
+| &nbsp; | Project | Description | Stack | Status |
+|:---:|:---|:---|:---|:---:|
+| ✈️ | **Flight Booking System** | Full-stack airline booking with seat selection & payment flow | React, Node.js, MongoDB, Express | ✅ Live |
+| 🗳️ | **E-Voting Web App** | Tamper-proof digital voting with end-to-end encryption | MERN, JWT, Bcrypt, Socket.io | ✅ Live |
+| 📤 | **Drive File Uploader** | Seamless Google Drive integration with drag-and-drop UI | Node.js, Google Drive API, React | ✅ Live |
+| 🎬 | **MP4 Audio Extractor** | CLI + Web tool to extract audio tracks from video files | Node.js, FFmpeg, Express | ✅ Live |
+| 📃 | **WordPress Migration Tool** | Bootstrap → TailwindCSS theme converter | TailwindCSS, PHP, WordPress | ✅ Live |
+| 🌐 | **Halwai.com Platform** | Full e-commerce platform for local sweet shops | MERN Stack, Razorpay, Cloudinary | 🔧 WIP |
 
 </div>
 
 ---
 
-## 🎯 2025 Mission Board
+## 📚 &nbsp;Currently Leveling Up — 2026 Stack
 
 <div align="center">
 
 ```
-╔══════════════════════════════════════════════════════════╗
-║              🚀 ABHAY'S 2025 GOALS                       ║
-╠══════════════════════════════════════════════════════════╣
-║  🏆 Become a certified MERN Architect                    ║
-║  💼 Land an International Remote Job                     ║
-║  🌟 Build and Launch an Open Source SaaS Product         ║
-║  📦 Contribute to 10+ Popular Node.js Libraries          ║
-║  📱 Launch a React Native App on PlayStore               ║
-║  ✍️  Write 24 Technical Blog Posts on Dev.to             ║
-╚══════════════════════════════════════════════════════════╝
+ SKILL              PROGRESS                          LEVEL
+─────────────────────────────────────────────────────────────
+ TypeScript    ████████████████░░░░   80%   ◆ Advanced
+ React Native  ████████████░░░░░░░░   60%   ◆ Intermediate
+ Microservices ██████████░░░░░░░░░░   50%   ◆ Intermediate
+ GraphQL       ████████░░░░░░░░░░░░   40%   ◆ Beginner+
+ Docker/K8s    ██████░░░░░░░░░░░░░░   30%   ◆ Learning
+─────────────────────────────────────────────────────────────
 ```
 
 </div>
 
 ---
 
-## ✍️ Random Dev Quote
+## 🎯 &nbsp;Mission Board 2026
 
 <div align="center">
 
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+```
+  ╔═══════════════════════════════════════════════════════════════╗
+  ║          🚀  ABHAY DIXIT  —  MISSION BOARD 2026  🚀          ║
+  ╠═══════════════════════════════════════════════════════════════╣
+  ║                                                               ║
+  ║   🏆  Become a certified MERN Architect                       ║
+  ║   💼  Land an International Remote Engineering Role           ║
+  ║   🌟  Build & Launch an Open Source SaaS Product             ║
+  ║   📦  Contribute to 10+ Popular Node.js Open Source Libs     ║
+  ║   📱  Ship a React Native App to Google PlayStore            ║
+  ║   ✍️   Publish 24 Technical Articles on Dev.to               ║
+  ║   🎤  Speak at 1 Developer Conference                         ║
+  ║   🌍  500+ GitHub Stars across all repositories              ║
+  ║                                                               ║
+  ╚═══════════════════════════════════════════════════════════════╝
+```
 
 </div>
 
 ---
 
-## 🐍 Contribution Snake
+## ✍️ &nbsp;Random Dev Quote
 
 <div align="center">
 
-![Snake animation](https://raw.githubusercontent.com/AbhayDixitDev/AbhayDixitDev/main/dist/github-snake-dark.svg#gh-dark-mode-only)
-![Snake animation](https://raw.githubusercontent.com/AbhayDixitDev/AbhayDixitDev/main/dist/github-snake.svg#gh-light-mode-only)
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="dev quote" />
+
+</div>
+
+---
+
+## 🐍 &nbsp;Contribution Snake — Watch It Eat My Commits!
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AbhayDixitDev/AbhayDixitDev/main/dist/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AbhayDixitDev/AbhayDixitDev/main/dist/github-snake.svg" />
+  <img alt="github contribution snake" src="https://raw.githubusercontent.com/AbhayDixitDev/AbhayDixitDev/main/dist/github-snake.svg" />
+</picture>
+
+</div>
+
+---
+
+## 📈 &nbsp;Contribution Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=AbhayDixitDev&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00D4FF&line=205295&point=00D4FF&area=true&custom_title=Abhay%27s%20Contribution%20Graph%202026" alt="contribution graph" />
 
 </div>
 
@@ -172,10 +220,22 @@ const abhay = {
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling" width="100%"/>
+### 💡 &nbsp;A Thought to Leave You With
 
-**⭐ If you like what I do, consider giving my repos a star! ⭐**
+> *"First, solve the problem. Then, write the code."* — John Johnson
 
-*Made with ❤️ by Abhay Dixit | 2025*
+---
+
+<img src="https://img.shields.io/badge/Made%20with-❤️%20%26%20lots%20of%20☕-ff69b4?style=for-the-badge" />
+&nbsp;
+<img src="https://img.shields.io/badge/Year-2026-blueviolet?style=for-the-badge&logo=calendar&logoColor=white" />
+&nbsp;
+<img src="https://img.shields.io/badge/Status-Building%20the%20Future-00D4FF?style=for-the-badge&logo=rocket&logoColor=white" />
+
+<br/><br/>
+
+**⭐ Star my repos if you find them useful! It keeps me motivated to build more awesome stuff. ⭐**
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:205295,50:144272,100:0D1117&height=130&section=footer&animation=fadeIn&fontColor=00D4FF" />
 
 </div>
