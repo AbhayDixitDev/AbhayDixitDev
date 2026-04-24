@@ -1,11 +1,11 @@
 <div align="center">
 
-<!-- 3D ANIMATED HEADER BANNER -->
+<!-- 3D ANIMATED HEADER BANNER -->h
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,30:0A2647,60:144272,100:205295&height=220&section=header&text=Abhay%20Dixit&fontSize=90&fontColor=00D4FF&animation=fadeIn&fontAlignY=38&desc=⚡%20Full-Stack%20MERN%20Developer%20%7C%20Code%20Craftsman%20%7C%20Builder%20of%20Things&descAlignY=60&descSize=17&descColor=ffffff" />
 
 <!-- ANIMATED TYPING -->
 <a href="https://github.com/AbhayDixitDev">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=26&duration=3000&pause=800&color=00D4FF&center=true&vCenter=true&multiline=false&random=false&width=750&height=60&lines=🚀+MERN+Full-Stack+Developer;⚡+React+%2B+Node+%2B+MongoDB+%2B+Express;🌍+Building+Scalable+Web+Applications;🏗️+Open+Source+Contributor+%26+Builder;🎯+Turning+Coffee+into+Code+since+2020" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=800&size=26&duration=3000&pause=800&color=00D4FF&center=true&vCenter=true&multiline=false&random=false&width=750&height=60&lines=🚀+MERN+Full-Stack+Developer;⚡+React+%2B+Node+%2B+MongoDB+%2B+Express;🌍+Building+Scalable+Web+Applications;🏗️+Open+Source+Contributor+%26+Builder;🎯+Turning+Coffee+into+Code+since+2020" alt="Typing SVG" />
 </a>
 
 <br/>
