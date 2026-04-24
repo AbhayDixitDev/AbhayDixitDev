@@ -123,23 +123,6 @@ export default developer;
 
 ---
 
-## 🚀 &nbsp;Featured Projects — Built with Passion
-
-<div align="center">
-
-| &nbsp; | Project | Description | Stack | Status |
-|:---:|:---|:---|:---|:---:|
-| ✈️ | **Flight Booking System** | Full-stack airline booking with seat selection & payment flow | React, Node.js, MongoDB, Express | ✅ Live |
-| 🗳️ | **E-Voting Web App** | Tamper-proof digital voting with end-to-end encryption | MERN, JWT, Bcrypt, Socket.io | ✅ Live |
-| 📤 | **Drive File Uploader** | Seamless Google Drive integration with drag-and-drop UI | Node.js, Google Drive API, React | ✅ Live |
-| 🎬 | **MP4 Audio Extractor** | CLI + Web tool to extract audio tracks from video files | Node.js, FFmpeg, Express | ✅ Live |
-| 📃 | **WordPress Migration Tool** | Bootstrap → TailwindCSS theme converter | TailwindCSS, PHP, WordPress | ✅ Live |
-| 🌐 | **Halwai.com Platform** | Full e-commerce platform for local sweet shops | MERN Stack, Razorpay, Cloudinary | 🔧 WIP |
-
-</div>
-
----
-
 ## 📚 &nbsp;Currently Leveling Up — 2026 Stack
 
 <div align="center">
