@@ -1,6 +1,6 @@
 <div align="center">
 
-<!-- 3D ANIMATED HEADER BANNER -->h
+<!-- 3D ANIMATED HEADER BANNER -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,30:0A2647,60:144272,100:205295&height=220&section=header&text=Abhay%20Dixit&fontSize=90&fontColor=00D4FF&animation=fadeIn&fontAlignY=38&desc=⚡%20Full-Stack%20MERN%20Developer%20%7C%20Code%20Craftsman%20%7C%20Builder%20of%20Things&descAlignY=60&descSize=17&descColor=ffffff" />
 
 <!-- ANIMATED TYPING -->
